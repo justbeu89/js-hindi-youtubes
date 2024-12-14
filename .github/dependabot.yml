@@ -3,6 +3,8 @@
 # Please see the documentation for more information:
 # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 # https://containers.dev/guide/dependabot
+git commit -m "Add test.js file and basic functionality"
+
 
 version: 2
 updates:
